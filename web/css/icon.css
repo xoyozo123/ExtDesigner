@@ -1,0 +1,27 @@
+.icon-user {
+    background-image: url(../img/icon/user.png) !important;
+}
+
+.icon-user-add {
+    background-image: url(../img/icon/user_add.gif) !important;
+}
+
+.icon-save {
+    background-image: url(../img/icon/save.gif) !important;
+}
+
+.icon-reset {
+    background-image: url(../img/icon/stop.png) !important;
+}
+
+.icon-grid {
+    background-image: url(../img/icon/grid.png) !important;
+}
+
+.icon-add {
+    background-image: url(../img/icon/add.png) !important;
+}
+
+.icon-delete {
+    background-image: url(../img/icon/delete.png) !important;
+}
